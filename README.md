@@ -25,6 +25,8 @@ Try it now: **https://lawlietog.github.io/rachna-architecture-diagram-editor/**
 
 ## How to Use
 
+The canvas loads with a sample diagram. Click **⌀ Clear** to start with a blank canvas.
+
 1. Click **+ Box** to add a component
 2. **Drag** to move, click then drag the blue corner to resize
 3. Switch to **→ Connect** mode, click source then target to draw an arrow
